@@ -1,0 +1,8 @@
+{
+    "name": "MercadoPago",
+    "version": "1.0.0",
+    "description": "MercadoPago integration using omnipay",
+    "authors": ["Flames", "Lucas Macedo"],
+    "providers": ["Flute\\Modules\\MercadoPago\\ServiceProviders\\MercadoPagoServiceProvider"],
+    "dependencies": {}
+}
